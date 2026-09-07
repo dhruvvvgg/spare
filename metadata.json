@@ -1,0 +1,7 @@
+{
+  "name": "Spare",
+  "description": "A warm, joyful donation-matching app that flips giving from 'how much can you donate' to 'what do you have spare right now?' — discovering immediate ways to act with your money, time, skills, or objects.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
