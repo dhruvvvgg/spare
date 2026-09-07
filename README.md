@@ -26,7 +26,7 @@ Once you pick a result, a second Gemini call drafts an outreach message in your 
 
 ## Try it
 
-Live app: [link]
+Live app: [spare](https://spareapp.ai.studio)
 
 There are three demo personas on the first screen if you'd rather tap through than type.
 
